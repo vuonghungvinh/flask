@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+.keys
+.env
+*.pyc
+__pycache__
+.python-version
+
+.venv/*
+venv/*
+flask_demo
+flask_demo.*
+htmlcov/*
